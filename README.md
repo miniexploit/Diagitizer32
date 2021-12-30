@@ -8,7 +8,7 @@ Diags booting utility for 32-bit devices
 NOTE: If your device is not supported, the app will say "No DFU device connected"
 
 ## Report Bug
-Report a bug [here](https://github.com/Mini-Exploit/Diagtizer32_BugTracker/issues).
+Report a bug [here](https://github.com/Mini-Exploit/Diagitizer32/issues).
 
 ## Donation
 Give this repository a star :)

@@ -1,6 +1,11 @@
 ## Diagitizer32
 Diags booting utility for 32-bit devices
-
+## Supported devices
+* iPad Air 1
+* iPad 4
+* iPad Mini 1
+* iPad Mini 2
+* iPad Mini 3
 ## Getting started
 1. Connect a device in DFU mode.
 2. Press the button.

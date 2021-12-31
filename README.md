@@ -6,6 +6,8 @@ Diags booting utility for 32-bit devices
 * iPad Mini 1
 * iPad Mini 2
 * iPad Mini 3
+## Download
+Download Diagitizer32 [here](https://github.com/Mini-Exploit/Diagitizer32/releases)
 ## Getting started
 1. Connect a device in DFU mode.
 2. Press the button.

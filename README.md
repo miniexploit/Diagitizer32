@@ -15,8 +15,7 @@ Download Diagitizer32 [here](https://github.com/Mini-Exploit/Diagitizer32/releas
 3. If successful, your device is now in Diags Mode.
 
 NOTE: 
-1) If your device is not supported, the app will say "No DFU device connected"
-2) If it says "Exploit failed", keep trying until suceeded
+1) Keep trying until succeeds
 ## Report Bug
 Report a bug [here](https://github.com/Mini-Exploit/Diagitizer32/issues).
 

@@ -3,7 +3,6 @@ Diags booting utility for many iDevices
 ## Supported devices
 * iPad Air 1
 * iPad 4
-* iPad Mini 1
 * iPad Mini 2
 * iPad Mini 3
 ## Download

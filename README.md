@@ -1,6 +1,5 @@
 ## Diagitizer32
-Diags booting utility for 32-bit devices
-## IMPORTANT: DO NOT USE ANY VERSION OLDER THAN 2.0.2 SINCE THEY HAVE A SERIOUS BUG WITH FRAMEWORKS 
+Diags booting utility for many iDevices
 ## Supported devices
 * iPad Air 1
 * iPad 4

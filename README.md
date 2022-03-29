@@ -12,8 +12,6 @@ Download Diagitizer32 [here](https://github.com/Mini-Exploit/Diagitizer32/releas
 2. Press the button.
 3. If successful, your device is now in Diags Mode.
 
-NOTE: 
-1) Keep trying until succeeds
 ## Report Bug
 Report a bug [here](https://github.com/Mini-Exploit/Diagitizer32/issues).
 
